@@ -51,10 +51,23 @@
 
 `Expo SDK 53` `React Native` `TypeScript` `Supabase (Auth, DB, Storage, Realtime)` `Zustand` `React Navigation` `NativeWind` `Reanimated`
 
-### 🛠️ Also built
+### 🧠 MindShift Motivation
 
-**[vigiApp](https://github.com/appdeveloper9is/vigiApp)**: a community safety app where neighbours report incidents and get help in real time.
-Expo Router · Firebase Cloud Functions · geo-targeted push alerts (Haversine radius) · live map · group chat · Zustand
+<a href="https://apps.apple.com/pk/app/mindshift-motivation/id6754450640"><img src="https://img.shields.io/badge/App_Store-Download_MindShift-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a>
+
+**MindShift Motivation** is a live App Store app that creates personalised affirmations, hypnosis and shadow-work audio for each user. People chat with an AI coach, and the app turns their goals and mood into custom tracks. I built it for a client and shipped it to the App Store.
+
+<p>
+  <a href="https://apps.apple.com/pk/app/mindshift-motivation/id6754450640"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/68/cf/2a68cfe9-5538-3040-7011-82c9f4ca3107/1.png/300x650bb-60.jpg" width="180" alt="MindShift screenshot"/></a>
+  <a href="https://apps.apple.com/pk/app/mindshift-motivation/id6754450640"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/f8/ea/13f8ea92-da28-f97c-9937-6ce3c9940e46/2.png/300x650bb-60.jpg" width="180" alt="MindShift screenshot"/></a>
+  <a href="https://apps.apple.com/pk/app/mindshift-motivation/id6754450640"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/1c/0d/b51c0d65-8d0f-d381-9b46-3cfe8b34267b/3.png/300x650bb-60.jpg" width="180" alt="MindShift screenshot"/></a>
+  <a href="https://apps.apple.com/pk/app/mindshift-motivation/id6754450640"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/6d/79/d66d79e5-13a9-583a-61df-aee16107ac21/4.png/300x650bb-60.jpg" width="180" alt="MindShift screenshot"/></a>
+</p>
+
+- **AI chat coaching** that learns the user's goals and emotions
+- **Personalised audio generated on demand**: affirmations, hypnosis, shadow work
+- **Premium subscription** with in-app purchases
+- **Daily motivation reminders** via push notifications
 
 > Most of my client work is in private repositories under NDA. I'm happy to walk you through the code and architecture on a call.
 
