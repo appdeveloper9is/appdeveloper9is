@@ -69,6 +69,24 @@
 - **Premium subscription** with in-app purchases
 - **Daily motivation reminders** via push notifications
 
+### ⚡ Saudi Energy
+
+<a href="https://apps.apple.com/pk/app/saudi-energy/id1502975624"><img src="https://img.shields.io/badge/App_Store-Download_Saudi_Energy-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a> <img src="https://img.shields.io/badge/Rating-4.9%E2%98%85-FFB400?style=for-the-badge" alt="4.9 star rating"/>
+
+**Saudi Energy** is the official electricity services app for customers in Saudi Arabia, rated **4.9★ on the App Store**. I contributed to this large-scale production app used to manage electricity accounts and services.
+
+<p>
+  <a href="https://apps.apple.com/pk/app/saudi-energy/id1502975624"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/6e/6b/786e6b6d-5261-da98-4962-5a7055b72c5f/1@2x-100.jpg/300x650bb-60.jpg" width="180" alt="Saudi Energy screenshot"/></a>
+  <a href="https://apps.apple.com/pk/app/saudi-energy/id1502975624"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/3e/c5/773ec5b8-aa41-0f88-bd8a-6a6751f01d04/2@2x-100.jpg/300x650bb-60.jpg" width="180" alt="Saudi Energy screenshot"/></a>
+  <a href="https://apps.apple.com/pk/app/saudi-energy/id1502975624"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/2b/f7/6d2bf78e-053a-7e71-984a-41d4b847a064/3@2x-100.jpg/300x650bb-60.jpg" width="180" alt="Saudi Energy screenshot"/></a>
+  <a href="https://apps.apple.com/pk/app/saudi-energy/id1502975624"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/93/44/a79344f7-88f5-49b0-cccb-b4ce4121636d/4@2x-100.jpg/300x650bb-60.jpg" width="180" alt="Saudi Energy screenshot"/></a>
+</p>
+
+- **Account management**: multiple electricity accounts in one place
+- **Consumption tracking**: daily, weekly and monthly usage insights with smart alerts
+- **Bills & payments** through multiple payment channels with instant status updates
+- **Live chat support** and **service requests** tracked through to completion
+
 > Most of my client work is in private repositories under NDA. I'm happy to walk you through the code and architecture on a call.
 
 ### 📫 Hiring? Let's talk
