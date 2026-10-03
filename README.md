@@ -30,7 +30,19 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
-### 📱 Featured project
+### 📱 Featured project: Wishy
+
+**Wishy** is a social iOS & Android app where people share wishes (a dinner, a trip, a gift) and friends or partners make them happen. Built with Expo for a client and shipped to TestFlight.
+
+- **Real-time chat** tied to each wish, with date proposals and confirmations
+- **Push + in-app notifications** for every wish action, synced across devices
+- **Connections system**: search, QR-code invites, friend / relationship status, blocking
+- **Role-based UX** (Wisher / Wished / Both) with a full wish lifecycle: draft → proposed → accepted → fulfilled → rated
+- **Offline-first**: local cache with Supabase as the single source of truth
+
+`Expo SDK 53` `React Native` `TypeScript` `Supabase (Auth, DB, Storage, Realtime)` `Zustand` `React Navigation` `NativeWind` `Reanimated`
+
+### 🛠️ Also built
 
 **[vigiApp](https://github.com/appdeveloper9is/vigiApp)**: a community safety app where neighbours report incidents and get help in real time.
 Expo Router · Firebase Cloud Functions · geo-targeted push alerts (Haversine radius) · live map · group chat · Zustand
