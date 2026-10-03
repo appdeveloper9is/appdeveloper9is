@@ -2,6 +2,7 @@
 <h3 align="center">React Native Developer · I build and ship production mobile apps for iOS & Android</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mustafa-haider-2a377121b/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20new%20roles-2ea44f?style=for-the-badge" alt="Open to work"/>
 </p>
 
@@ -38,4 +39,4 @@ Expo Router · Firebase Cloud Functions · geo-targeted push alerts (Haversine r
 
 ### 📫 Hiring? Let's talk
 
-I'm open to React Native roles and reply within 24 hours.
+I'm open to React Native roles and reply within 24 hours. **[Message me on LinkedIn →](https://www.linkedin.com/in/mustafa-haider-2a377121b/)**
