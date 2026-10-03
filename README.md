@@ -32,7 +32,16 @@
 
 ### 📱 Featured project: Wishy
 
-**Wishy** is a social iOS & Android app where people share wishes (a dinner, a trip, a gift) and friends or partners make them happen. Built with Expo for a client and shipped to TestFlight.
+<a href="https://apps.apple.com/pk/app/wishy/id6757743470"><img src="https://img.shields.io/badge/App_Store-Download_Wishy!-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a>
+
+**Wishy!** is a live App Store app that helps couples and friends share their wishes (a dinner, a trip, a gift) and make them happen for each other. I built it with React Native + Expo for a client, from first screen to App Store release.
+
+<p>
+  <a href="https://apps.apple.com/pk/app/wishy/id6757743470"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/f5/9e/97f59e86-a42e-d9f4-ce69-0ccfd264744f/Home_2.jpg/300x650bb-60.jpg" width="180" alt="Wishy screenshot"/></a>
+  <a href="https://apps.apple.com/pk/app/wishy/id6757743470"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/0b/c1/a40bc120-8404-051f-bf9d-e35ec8c1ba25/Wishes.jpg/300x650bb-60.jpg" width="180" alt="Wishy screenshot"/></a>
+  <a href="https://apps.apple.com/pk/app/wishy/id6757743470"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/4e/41/184e41aa-fc5c-78ce-efa2-0638ad5954ab/Wish.jpg/300x650bb-60.jpg" width="180" alt="Wishy screenshot"/></a>
+  <a href="https://apps.apple.com/pk/app/wishy/id6757743470"><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/d0/f1/05d0f149-87a3-9b2f-16ca-194b9049ad1d/My_Wishes.jpg/300x650bb-60.jpg" width="180" alt="Wishy screenshot"/></a>
+</p>
 
 - **Real-time chat** tied to each wish, with date proposals and confirmations
 - **Push + in-app notifications** for every wish action, synced across devices
